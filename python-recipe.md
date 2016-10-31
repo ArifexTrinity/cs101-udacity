@@ -1,5 +1,7 @@
 ### HtDP Recipe
 
+This recipe allows you to program in Python in a systemetic way. Just follow this recipe and you will find it very useful and efficient.
+
 1. Signature, Purpose, Stub
 2. Define example and wrap in test case
 3. Template and Inventory
